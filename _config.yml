@@ -1,2 +1,5 @@
+domain: s0foo.github.io
+url: https://s0foo.github.io
+baseurl: ""
+github_username: s0foo
 theme: minima
-  skin: solarized-light
